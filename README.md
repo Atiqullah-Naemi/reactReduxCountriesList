@@ -1,2 +1,0 @@
-# reactReduxCountriesList
-Created with CodeSandbox
